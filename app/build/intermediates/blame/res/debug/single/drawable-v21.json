@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Tonni\\.android\\build-cache\\3c054c4565b06dc9478399982ec48efa8d5f4e37\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Tonni\\.android\\build-cache\\3c054c4565b06dc9478399982ec48efa8d5f4e37\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
+        "source": "E:\\android\\3-2\\final\\Bookstack\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Tonni\\.android\\build-cache\\3c054c4565b06dc9478399982ec48efa8d5f4e37\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Tonni\\.android\\build-cache\\e89dda1769da88977b66da88bbeee2ce592e44d4\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Tonni\\.android\\build-cache\\e89dda1769da88977b66da88bbeee2ce592e44d4\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
+        "source": "E:\\android\\3-2\\final\\Bookstack\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
+        "source": "E:\\android\\3-2\\final\\Bookstack\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
+        "source": "E:\\android\\3-2\\final\\Bookstack\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Tonni\\.android\\build-cache\\3c054c4565b06dc9478399982ec48efa8d5f4e37\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Tonni\\.android\\build-cache\\e89dda1769da88977b66da88bbeee2ce592e44d4\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Tonni\\.android\\build-cache\\e89dda1769da88977b66da88bbeee2ce592e44d4\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
+        "source": "E:\\android\\3-2\\final\\Bookstack\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
+        "source": "E:\\android\\3-2\\final\\Bookstack\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    }
+]

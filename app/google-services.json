@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "477256689793",
+    "firebase_url": "https://bookstack-8a729.firebaseio.com",
+    "project_id": "bookstack-8a729",
+    "storage_bucket": "bookstack-8a729.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477256689793:android:869a365032b0ff75",
+        "android_client_info": {
+          "package_name": "com.cse.mist.bookstack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477256689793-am6ga553lc4umk3gbprhiivcq07lu1im.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cse.mist.bookstack",
+            "certificate_hash": "54bba424ed27e6c1c184d02703b475afad7b84c2"
+          }
+        },
+        {
+          "client_id": "477256689793-6feh6fupcnpe1a9q7p6iecg3am869cpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWfqdhWPj5RdWCjslGGccaESQHDiY0zpU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477256689793-6feh6fupcnpe1a9q7p6iecg3am869cpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

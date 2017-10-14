@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "E:\\android\\3-2\\final\\Bookstack\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\bookwormpenguin.png",
+        "source": "E:\\android\\3-2\\final\\Bookstack\\app\\src\\main\\res\\mipmap-mdpi\\bookwormpenguin.png"
+    },
+    {
+        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "E:\\android\\3-2\\final\\Bookstack\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]
