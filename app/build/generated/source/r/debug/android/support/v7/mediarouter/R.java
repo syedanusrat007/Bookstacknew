@@ -973,7 +973,7 @@ public final class R {
         public static final int mr_controller_no_media_selected = 0x7f080056;
         public static final int mr_controller_pause = 0x7f080057;
         public static final int mr_controller_play = 0x7f080058;
-        public static final int mr_controller_stop = 0x7f080098;
+        public static final int mr_controller_stop = 0x7f080097;
         public static final int mr_controller_stop_casting = 0x7f080059;
         public static final int mr_controller_volume_slider = 0x7f08005a;
         public static final int mr_system_route_name = 0x7f08005b;

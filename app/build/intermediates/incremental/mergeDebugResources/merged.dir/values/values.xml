@@ -1093,9 +1093,6 @@
     <string name="google_api_key" translatable="false">AIzaSyDWfqdhWPj5RdWCjslGGccaESQHDiY0zpU</string>
     <string name="google_app_id" translatable="false">1:477256689793:android:869a365032b0ff75</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDWfqdhWPj5RdWCjslGGccaESQHDiY0zpU</string>
-    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
-       AIzaSyCyf4-3onGFypLUe30DPA8WxS2niWhaILk
-    </string>
     <string name="google_storage_bucket" translatable="false">bookstack-8a729.appspot.com</string>
     <string name="hitName">Enter your name</string>
     <string name="hitemail">Enter your email</string>

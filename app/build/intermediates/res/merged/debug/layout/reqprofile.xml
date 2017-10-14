@@ -59,9 +59,9 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:enabled="false"
+            android:gravity="center"
             android:maxLines="1"
             android:text="Hasib"
-            android:gravity="center"
             android:textColor="#005"
 
             android:textSize="16sp" />
@@ -91,9 +91,9 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:enabled="false"
+            android:gravity="center"
             android:maxLines="1"
             android:text="MIST"
-            android:gravity="center"
             android:textColor="#005"
 
             android:textSize="16sp" />
@@ -125,9 +125,9 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:enabled="false"
+            android:gravity="center"
             android:maxLines="1"
             android:text="201514000"
-            android:gravity="center"
             android:textColor="#005"
 
             android:textSize="16sp" />
@@ -158,9 +158,9 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:enabled="false"
+            android:gravity="center"
             android:maxLines="1"
             android:text="Hasib@gmail.com"
-            android:gravity="center"
             android:textColor="#005"
 
             android:textSize="16sp" />
