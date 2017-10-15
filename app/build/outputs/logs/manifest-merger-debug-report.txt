@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\android\3-2\final\Bookstack\app\src\main\AndroidManifest.xml:2:1-89:12
+ADDED from E:\android\3-2\final\Bookstack\app\src\main\AndroidManifest.xml:2:1-90:12
 	package
 		ADDED from E:\android\3-2\final\Bookstack\app\src\main\AndroidManifest.xml:3:5-37
 		INJECTED from E:\android\3-2\final\Bookstack\app\src\main\AndroidManifest.xml
@@ -87,7 +87,7 @@ ADDED from E:\android\3-2\final\Bookstack\app\src\main\AndroidManifest.xml:25:5-
 	android:name
 		ADDED from E:\android\3-2\final\Bookstack\app\src\main\AndroidManifest.xml:25:22-78
 application
-ADDED from E:\android\3-2\final\Bookstack\app\src\main\AndroidManifest.xml:27:5-87:19
+ADDED from E:\android\3-2\final\Bookstack\app\src\main\AndroidManifest.xml:27:5-88:19
 MERGED from [com.google.android.gms:play-services:11.0.4] C:\Users\Tonni\.android\build-cache\f7e8c0463ab8348779e612798c041729ba399ef2\output\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Tonni\.android\build-cache\88955574fbbbf2541b065624477bfd80a040b581\output\AndroidManifest.xml:23:5-26:19
 MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Tonni\.android\build-cache\8c20fde30ce1a112713081090df48b555fcd3cd5\output\AndroidManifest.xml:26:5-19
@@ -258,12 +258,15 @@ ADDED from E:\android\3-2\final\Bookstack\app\src\main\AndroidManifest.xml:83:9-
 	android:name
 		ADDED from E:\android\3-2\final\Bookstack\app\src\main\AndroidManifest.xml:84:13-42
 activity#com.cse.mist.bookstack.Borrower
-ADDED from E:\android\3-2\final\Bookstack\app\src\main\AndroidManifest.xml:86:9-55
+ADDED from E:\android\3-2\final\Bookstack\app\src\main\AndroidManifest.xml:86:9-46
 	android:name
 		ADDED from E:\android\3-2\final\Bookstack\app\src\main\AndroidManifest.xml:86:19-43
+activity#com.cse.mist.bookstack.Aboutus
+ADDED from E:\android\3-2\final\Bookstack\app\src\main\AndroidManifest.xml:87:9-54
+	android:name
+		ADDED from E:\android\3-2\final\Bookstack\app\src\main\AndroidManifest.xml:87:19-42
 uses-sdk
 INJECTED from E:\android\3-2\final\Bookstack\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:multidex:1.0.1] C:\Users\Tonni\.android\build-cache\e91b4859042f8bee7484c9a55e9b4d99aef4ae53\output\AndroidManifest.xml:18:5-42
 MERGED from [com.google.android.gms:play-services:11.0.4] C:\Users\Tonni\.android\build-cache\f7e8c0463ab8348779e612798c041729ba399ef2\output\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-ads:11.0.4] C:\Users\Tonni\.android\build-cache\8e1caa424de9968b8d211e50ad871190b1aee2c8\output\AndroidManifest.xml:17:5-43
 MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Tonni\.android\build-cache\88955574fbbbf2541b065624477bfd80a040b581\output\AndroidManifest.xml:22:5-43

@@ -135,6 +135,9 @@ public class MainPageNav extends AppCompatActivity
         } else if (id == R.id.notification) {
             Intent intent3 = new Intent(context, Notification.class);
             startActivity(intent3);
+        } else if (id == R.id.about) {
+            Intent intent4 = new Intent(context, Aboutus.class);
+            startActivity(intent4);
         }
 
 

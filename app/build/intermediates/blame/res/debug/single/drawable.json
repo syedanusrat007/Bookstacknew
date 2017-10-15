@@ -80,16 +80,16 @@
         "source": "C:\\Users\\Tonni\\.android\\build-cache\\e89dda1769da88977b66da88bbeee2ce592e44d4\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
-        "source": "C:\\Users\\Tonni\\.android\\build-cache\\738988fef79f6c6546aaf3bff6a9274b24bde5de\\output\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Tonni\\.android\\build-cache\\e89dda1769da88977b66da88bbeee2ce592e44d4\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
         "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
         "source": "C:\\Users\\Tonni\\.android\\build-cache\\738988fef79f6c6546aaf3bff6a9274b24bde5de\\output\\res\\drawable\\cast_ic_notification_forward10.xml"
     },
     {
-        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\Tonni\\.android\\build-cache\\e89dda1769da88977b66da88bbeee2ce592e44d4\\output\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "C:\\Users\\Tonni\\.android\\build-cache\\738988fef79f6c6546aaf3bff6a9274b24bde5de\\output\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
     },
     {
         "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
@@ -108,12 +108,12 @@
         "source": "C:\\Users\\Tonni\\.android\\build-cache\\738988fef79f6c6546aaf3bff6a9274b24bde5de\\output\\res\\drawable\\cast_expanded_controller_seekbar_track.xml"
     },
     {
-        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
-        "source": "C:\\Users\\Tonni\\.android\\build-cache\\738988fef79f6c6546aaf3bff6a9274b24bde5de\\output\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
-    },
-    {
         "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
         "source": "C:\\Users\\Tonni\\.android\\build-cache\\e89dda1769da88977b66da88bbeee2ce592e44d4\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "C:\\Users\\Tonni\\.android\\build-cache\\738988fef79f6c6546aaf3bff6a9274b24bde5de\\output\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
     },
     {
         "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pic4.jpg",

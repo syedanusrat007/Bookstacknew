@@ -108,6 +108,7 @@
             android:name="com.cse.mist.bookstack.MapsActivity2"
             android:label="@string/title_activity_maps" />
         <activity android:name="com.cse.mist.bookstack.Borrower" />
+        <activity android:name="com.cse.mist.bookstack.Aboutus" />
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"

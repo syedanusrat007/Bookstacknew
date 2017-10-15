@@ -4,16 +4,16 @@
         "source": "C:\\Users\\Tonni\\.android\\build-cache\\738988fef79f6c6546aaf3bff6a9274b24bde5de\\output\\res\\drawable-xxhdpi-v4\\quantum_ic_skip_previous_grey600_36.png"
     },
     {
-        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
-        "source": "C:\\Users\\Tonni\\.android\\build-cache\\e89dda1769da88977b66da88bbeee2ce592e44d4\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_vol_type_speaker_group_light.png",
+        "source": "C:\\Users\\Tonni\\.android\\build-cache\\b63b394867df5ce6a0e645271c212450de309447\\output\\res\\drawable-xxhdpi-v4\\ic_vol_type_speaker_group_light.png"
     },
     {
         "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_mr_button_connecting_00_dark.png",
         "source": "C:\\Users\\Tonni\\.android\\build-cache\\b63b394867df5ce6a0e645271c212450de309447\\output\\res\\drawable-xxhdpi-v4\\ic_mr_button_connecting_00_dark.png"
     },
     {
-        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_vol_type_speaker_group_light.png",
-        "source": "C:\\Users\\Tonni\\.android\\build-cache\\b63b394867df5ce6a0e645271c212450de309447\\output\\res\\drawable-xxhdpi-v4\\ic_vol_type_speaker_group_light.png"
+        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\Tonni\\.android\\build-cache\\e89dda1769da88977b66da88bbeee2ce592e44d4\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
     {
         "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_mr_button_connected_09_dark.png",
@@ -52,16 +52,16 @@
         "source": "C:\\Users\\Tonni\\.android\\build-cache\\b63b394867df5ce6a0e645271c212450de309447\\output\\res\\drawable-xxhdpi-v4\\ic_mr_button_connecting_01_dark.png"
     },
     {
-        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\quantum_ic_forward_10_white_24.png",
-        "source": "C:\\Users\\Tonni\\.android\\build-cache\\738988fef79f6c6546aaf3bff6a9274b24bde5de\\output\\res\\drawable-xxhdpi-v4\\quantum_ic_forward_10_white_24.png"
+        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_mr_button_connecting_13_light.png",
+        "source": "C:\\Users\\Tonni\\.android\\build-cache\\b63b394867df5ce6a0e645271c212450de309447\\output\\res\\drawable-xxhdpi-v4\\ic_mr_button_connecting_13_light.png"
     },
     {
         "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_mr_button_connected_18_dark.png",
         "source": "C:\\Users\\Tonni\\.android\\build-cache\\b63b394867df5ce6a0e645271c212450de309447\\output\\res\\drawable-xxhdpi-v4\\ic_mr_button_connected_18_dark.png"
     },
     {
-        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_mr_button_connecting_13_light.png",
-        "source": "C:\\Users\\Tonni\\.android\\build-cache\\b63b394867df5ce6a0e645271c212450de309447\\output\\res\\drawable-xxhdpi-v4\\ic_mr_button_connecting_13_light.png"
+        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\quantum_ic_forward_10_white_24.png",
+        "source": "C:\\Users\\Tonni\\.android\\build-cache\\738988fef79f6c6546aaf3bff6a9274b24bde5de\\output\\res\\drawable-xxhdpi-v4\\quantum_ic_forward_10_white_24.png"
     },
     {
         "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\quantum_ic_play_circle_filled_white_36.png",
@@ -100,24 +100,24 @@
         "source": "C:\\Users\\Tonni\\.android\\build-cache\\e89dda1769da88977b66da88bbeee2ce592e44d4\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_mr_button_connecting_02_light.png",
-        "source": "C:\\Users\\Tonni\\.android\\build-cache\\b63b394867df5ce6a0e645271c212450de309447\\output\\res\\drawable-xxhdpi-v4\\ic_mr_button_connecting_02_light.png"
-    },
-    {
         "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cast_ic_notification_0.png",
         "source": "C:\\Users\\Tonni\\.android\\build-cache\\f649e8f9b1b0407e46ddda9ad644f0ee6890854b\\output\\res\\drawable-xxhdpi-v4\\cast_ic_notification_0.png"
+    },
+    {
+        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_mr_button_connecting_02_light.png",
+        "source": "C:\\Users\\Tonni\\.android\\build-cache\\b63b394867df5ce6a0e645271c212450de309447\\output\\res\\drawable-xxhdpi-v4\\ic_mr_button_connecting_02_light.png"
     },
     {
         "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_mr_button_connecting_12_light.png",
         "source": "C:\\Users\\Tonni\\.android\\build-cache\\b63b394867df5ce6a0e645271c212450de309447\\output\\res\\drawable-xxhdpi-v4\\ic_mr_button_connecting_12_light.png"
     },
     {
-        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\quantum_ic_pause_grey600_36.png",
-        "source": "C:\\Users\\Tonni\\.android\\build-cache\\738988fef79f6c6546aaf3bff6a9274b24bde5de\\output\\res\\drawable-xxhdpi-v4\\quantum_ic_pause_grey600_36.png"
-    },
-    {
         "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_mr_button_connected_08_dark.png",
         "source": "C:\\Users\\Tonni\\.android\\build-cache\\b63b394867df5ce6a0e645271c212450de309447\\output\\res\\drawable-xxhdpi-v4\\ic_mr_button_connected_08_dark.png"
+    },
+    {
+        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\quantum_ic_pause_grey600_36.png",
+        "source": "C:\\Users\\Tonni\\.android\\build-cache\\738988fef79f6c6546aaf3bff6a9274b24bde5de\\output\\res\\drawable-xxhdpi-v4\\quantum_ic_pause_grey600_36.png"
     },
     {
         "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\quantum_ic_stop_grey600_36.png",
@@ -196,12 +196,12 @@
         "source": "C:\\Users\\Tonni\\.android\\build-cache\\738988fef79f6c6546aaf3bff6a9274b24bde5de\\output\\res\\drawable-xxhdpi-v4\\quantum_ic_skip_next_grey600_36.png"
     },
     {
-        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_mr_button_connected_05_light.png",
-        "source": "C:\\Users\\Tonni\\.android\\build-cache\\b63b394867df5ce6a0e645271c212450de309447\\output\\res\\drawable-xxhdpi-v4\\ic_mr_button_connected_05_light.png"
-    },
-    {
         "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png",
         "source": "C:\\Users\\Tonni\\.android\\build-cache\\e89dda1769da88977b66da88bbeee2ce592e44d4\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_mr_button_connected_05_light.png",
+        "source": "C:\\Users\\Tonni\\.android\\build-cache\\b63b394867df5ce6a0e645271c212450de309447\\output\\res\\drawable-xxhdpi-v4\\ic_mr_button_connected_05_light.png"
     },
     {
         "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
@@ -212,20 +212,20 @@
         "source": "C:\\Users\\Tonni\\.android\\build-cache\\e89dda1769da88977b66da88bbeee2ce592e44d4\\output\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png",
-        "source": "C:\\Users\\Tonni\\.android\\build-cache\\e89dda1769da88977b66da88bbeee2ce592e44d4\\output\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
-    },
-    {
         "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_mr_button_connected_15_light.png",
         "source": "C:\\Users\\Tonni\\.android\\build-cache\\b63b394867df5ce6a0e645271c212450de309447\\output\\res\\drawable-xxhdpi-v4\\ic_mr_button_connected_15_light.png"
     },
     {
-        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_mr_button_disabled_dark.png",
-        "source": "C:\\Users\\Tonni\\.android\\build-cache\\b63b394867df5ce6a0e645271c212450de309447\\output\\res\\drawable-xxhdpi-v4\\ic_mr_button_disabled_dark.png"
+        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Tonni\\.android\\build-cache\\e89dda1769da88977b66da88bbeee2ce592e44d4\\output\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\quantum_ic_play_arrow_grey600_36.png",
         "source": "C:\\Users\\Tonni\\.android\\build-cache\\738988fef79f6c6546aaf3bff6a9274b24bde5de\\output\\res\\drawable-xxhdpi-v4\\quantum_ic_play_arrow_grey600_36.png"
+    },
+    {
+        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_mr_button_disabled_dark.png",
+        "source": "C:\\Users\\Tonni\\.android\\build-cache\\b63b394867df5ce6a0e645271c212450de309447\\output\\res\\drawable-xxhdpi-v4\\ic_mr_button_disabled_dark.png"
     },
     {
         "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\quantum_ic_skip_previous_white_24.png",

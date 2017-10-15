@@ -52,12 +52,12 @@
         "source": "C:\\Users\\Tonni\\.android\\build-cache\\738988fef79f6c6546aaf3bff6a9274b24bde5de\\output\\res\\drawable-hdpi-v4\\quantum_ic_forward_10_white_24.png"
     },
     {
-        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\googleg_disabled_color_18.png",
-        "source": "C:\\Users\\Tonni\\.android\\build-cache\\7c3003566f2b5e1f8cffbeda93fd2c4ab2a4214b\\output\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
-    },
-    {
         "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_pause_grey600_36.png",
         "source": "C:\\Users\\Tonni\\.android\\build-cache\\738988fef79f6c6546aaf3bff6a9274b24bde5de\\output\\res\\drawable-hdpi-v4\\quantum_ic_pause_grey600_36.png"
+    },
+    {
+        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\Tonni\\.android\\build-cache\\7c3003566f2b5e1f8cffbeda93fd2c4ab2a4214b\\output\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
     },
     {
         "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_play_arrow_grey600_48.png",
@@ -84,12 +84,12 @@
         "source": "C:\\Users\\Tonni\\.android\\build-cache\\738988fef79f6c6546aaf3bff6a9274b24bde5de\\output\\res\\drawable-hdpi-v4\\quantum_ic_replay_10_white_24.png"
     },
     {
-        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_bigtop_updates_white_24.png",
-        "source": "C:\\Users\\Tonni\\.android\\build-cache\\738988fef79f6c6546aaf3bff6a9274b24bde5de\\output\\res\\drawable-hdpi-v4\\quantum_ic_bigtop_updates_white_24.png"
-    },
-    {
         "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_pause_white_24.png",
         "source": "C:\\Users\\Tonni\\.android\\build-cache\\738988fef79f6c6546aaf3bff6a9274b24bde5de\\output\\res\\drawable-hdpi-v4\\quantum_ic_pause_white_24.png"
+    },
+    {
+        "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_bigtop_updates_white_24.png",
+        "source": "C:\\Users\\Tonni\\.android\\build-cache\\738988fef79f6c6546aaf3bff6a9274b24bde5de\\output\\res\\drawable-hdpi-v4\\quantum_ic_bigtop_updates_white_24.png"
     },
     {
         "merged": "E:\\android\\3-2\\final\\Bookstack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_2.png",

@@ -11,20 +11,19 @@ public class Books {
     private String BookGenre;
     private String Writer;
     private String Type;
-    private String email;
+
 
 
     public Books() {
 
     }
 
-    public Books(String bid, String bookName, String bookGenre, String writer, String type, String email) {
+    public Books(String bid, String bookName, String bookGenre, String writer, String type) {
         this.Bid = bid;
         this.BookName = bookName;
         this.BookGenre = bookGenre;
         this.Writer = writer;
         this.Type = type;
-        this.email = email;
 
 
     }
@@ -69,11 +68,5 @@ public class Books {
         Type = type;
     }
 
-    public String getEmail() {
-        return email;
-    }
 
-    public void setEmail(String email) {
-        this.email = email;
-    }
 }

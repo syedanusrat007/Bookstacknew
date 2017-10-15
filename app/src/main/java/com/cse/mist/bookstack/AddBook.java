@@ -12,14 +12,11 @@ import android.widget.ListView;
 import android.widget.Spinner;
 import android.widget.Toast;
 
-import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
-import com.google.firebase.storage.FirebaseStorage;
-import com.google.firebase.storage.StorageReference;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -32,14 +29,9 @@ public class AddBook extends AppCompatActivity implements View.OnClickListener {
     public final static String Book_GENRE_KEY = "com.cse.mist.BookGenre";
     public final static String Book_writer_KEY = "com.cse.mist.Writer";
     public final static String Book_type_KEY = "com.cse.mist.Type";
-    public final static String Book_email_KEY = "com.cse.mist.email";
-    public String keep;
     DatabaseReference databasebook;
-    DatabaseReference datauser;
-    String email;
     List<Books> bookList;
     ListView bookListView;
-    String S;
     private EditText nam, writer;
     private Button addi;
     private Spinner spinner, spinner1;
@@ -89,17 +81,7 @@ public class AddBook extends AppCompatActivity implements View.OnClickListener {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.addbook);
 
-
-        //datauser = FirebaseDatabase.getInstance().getReference("User");
-
-        //Intent intent = getIntent();
-        //email = intent.getStringExtra(SignUp.USER_EMAIL_KEY);
-
-
-        String id = new ParseEmail().Parse(FirebaseAuth.getInstance().getCurrentUser().getEmail());
-        databasebook = FirebaseDatabase.getInstance().getReference("User").child("book");
-        //DatabaseReference databaseReference = null;
-        //databaseReference.child(User.getEmail).push().setValue(Books);
+        databasebook = FirebaseDatabase.getInstance().getReference("books");
 
 
         bookList = new ArrayList<>();
@@ -134,7 +116,6 @@ public class AddBook extends AppCompatActivity implements View.OnClickListener {
                 intent.putExtra(Book_writer_KEY, book.getWriter());
                 intent.putExtra(Book_GENRE_KEY, book.getBookGenre());
                 intent.putExtra(Book_type_KEY, book.getType());
-                intent.putExtra(Book_email_KEY, book.getEmail());
 
                 //starting the intent
                 startActivity(intent);
@@ -157,23 +138,11 @@ public class AddBook extends AppCompatActivity implements View.OnClickListener {
         String genre = spinner.getSelectedItem().toString();
         String genre1 = spinner1.getSelectedItem().toString();
 
-        String id1 = new ParseEmail().Parse(FirebaseAuth.getInstance().getCurrentUser().getEmail());
-
-        final DatabaseReference data = FirebaseDatabase.getInstance().getReference("User").child(id1);
-        StorageReference storageReference = FirebaseStorage.getInstance().getReference();
-        final String key = data.child("Book").push().getKey();
-
 
         if (!TextUtils.isEmpty(name)) {
             String id = databasebook.push().getKey();
-            Books boi = new Books(id, name, genre, wname, genre1, FirebaseAuth.getInstance().getCurrentUser().getEmail());
-            // databasebook.child(id).setValue(boi);
-            data.child("Book").child(key).setValue(boi);
-            //String id2 = new ParseEmail().Parse(email);
-            //datauser.child(id2).setValue(boi);
-            //User use = new User(name, uv, rl, mail, pass, num);
-            // datauser.child(id).setValue(use);
-
+            Books boi = new Books(id, name, genre, wname, genre1);
+            databasebook.child(id).setValue(boi);
 
             nam.setText("");
             writer.setText("");
@@ -187,3 +156,4 @@ public class AddBook extends AppCompatActivity implements View.OnClickListener {
 
 
 }
+

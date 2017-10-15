@@ -30,7 +30,7 @@ public class Bookprofile extends AppCompatActivity implements View.OnClickListen
 
         editTextName = (EditText) findViewById(R.id.editTextName);
         editTextName1 = (EditText) findViewById(R.id.editTextName1);
-        editTextemail = (EditText) findViewById(R.id.email);
+        // editTextemail =(EditText) findViewById(R.id.email);
         textViewGenre = (TextView) findViewById(R.id.textViewGenre);
         textViewGenre1 = (TextView) findViewById(R.id.textViewGenre1);
         spinnerGenres = (Spinner) findViewById(R.id.spinnerGenres);
@@ -49,7 +49,7 @@ public class Bookprofile extends AppCompatActivity implements View.OnClickListen
         editTextName1.setText(intent.getStringExtra(AddBook.Book_writer_KEY));
         textViewGenre.setText(intent.getStringExtra(AddBook.Book_GENRE_KEY));
         textViewGenre1.setText(intent.getStringExtra(AddBook.Book_type_KEY));
-        editTextemail.setText(intent.getStringExtra(AddBook.Book_email_KEY));
+        //editTextemail.setText(intent.getStringExtra(AddBook.Book_email_KEY));
 
         buttonEditBook.setOnClickListener(this);
         buttonDeleteBook.setOnClickListener(this);
@@ -109,7 +109,7 @@ public class Bookprofile extends AppCompatActivity implements View.OnClickListen
 
 
         // creating the object
-        Books boi = new Books(id, name, genre, wname, genre1, email);
+        Books boi = new Books(id, name, genre, wname, genre1);
         // set the value
         databaseRef.setValue(boi);
 
